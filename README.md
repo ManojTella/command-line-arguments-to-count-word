@@ -13,10 +13,10 @@ Import sys
 Assign a variable count =0
 
 ## Step 3:
-open a file in read mode
+Open a file in read mode
 
 ## Step 4:
-iterate a variable(lines) through the file
+Iterate a variable(lines) through the file
 
 ## Step 5:
 Assign a variable words = lines.split()
@@ -36,7 +36,7 @@ with open(sys.argv[1],'r') as f:
         count+=len(words)
 print("Number of words in a file:",count)  
 ```
-### OUTPUT:
+## OUTPUT:
 ![Github logo](word.png)
 
 
