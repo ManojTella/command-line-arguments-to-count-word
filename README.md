@@ -6,7 +6,7 @@ PC
 Anaconda - Python 3.7
 ### ALGORITHM:
 Step 1:
-import sys
+Import sys
 
 Step 2:
 Assign a variable count =0
