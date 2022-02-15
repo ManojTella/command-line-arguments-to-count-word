@@ -31,7 +31,8 @@ with open(sys.argv[1],'r') as f:
 print("Number of words in a file:",count)  
 ```
 ## OUTPUT:
-![Github logo](word.png)
+![Github logo](code.png)
+![Github logo](text.png)
 
 
 
